@@ -1,0 +1,5 @@
+site_name: docs-sample
+nav:
+  - Getting started: 'index.md'
+plugins:
+  - techdocs-core
